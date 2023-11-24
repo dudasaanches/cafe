@@ -1,0 +1,30 @@
+@media (max-width: 420px) {
+    .title, .textinho{
+        font-size: 15px !important;
+    }
+}
+
+@media (max-width: 426px) {
+    .title{
+        font-size: 25px !important;
+    }
+    .title2{
+        font-size: 50px !important;
+        margin-left: 0px !important;
+    }
+    .textinho{
+        font-size: 15px !important;
+    }
+    .clube img{
+        width: 150px;
+    }
+    .xicara{
+        width: 300px;
+        display: flex;
+        align-items: center;
+    }
+    .cards{
+        gap: 10px;
+        margin-left: 24px
+    }
+}

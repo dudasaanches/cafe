@@ -1,0 +1,153 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+img {
+    max-width: 100%;
+}
+
+header, .contato{
+    background-color: #0B3935;
+}
+.swal2-popup{
+    height: 108%;
+    width: 90% !important;
+    background: #5F9C6F !important;
+}
+
+.swal2-styled.swal2-confirm{
+    background-color: #326863 !important;
+}
+
+.nav-link{
+    color: #ffff;
+}
+
+.nav-link:hover{
+    color: #5F9C6F;
+    transition: all 0.5;
+}
+
+.clube img{
+    width: 100px;
+}
+
+.clube{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
+
+.textinho{
+    font-family: 'Inder', sans-serif;
+    padding: 20px;
+    font-size: 25px;
+}
+
+.title{
+    font-family: 'Istok Web', sans-serif;
+    font-size: 50px;
+    color: #0B3935;
+}
+
+.clubeDoce{
+    background-color: #D9D9D9;
+}
+
+.beneficio{
+    background-color: #DFD1B6;
+    padding: 10px;
+}
+
+.title2{
+    font-family: 'Jomhuria', cursive;
+    font-size: 95px;
+    color: #0B3935;
+    text-align: center;
+}
+
+.bolinha {
+    text-align: center;
+    font-family: 'Inika', serif;
+    font-size: 15px;
+}
+
+.bolinha img{
+    width: 186px;
+    display: block;
+    margin: 0 auto;
+}
+
+.verde{
+    background-color: #5F9C6F;
+    width: 200px;
+    display: block;
+    margin: 0 auto;
+    color: #ffff;
+}
+.verde:hover{
+    background-color: #0B3935;
+    color: #ffff;
+}
+
+.verdinho{
+    background-color: #326863;
+}
+
+.verdinho2{
+    background-color: #5F9C6F;
+}
+
+.verde2{
+    background-color: #326863;
+    width: 200px;
+    display: block;
+    margin: 10px auto;
+    color: #ffff;
+    border-radius: 20px;
+}
+.verde2:hover{
+    background-color: #0B3935;
+    color: #ffff;
+}
+
+.formulario{
+    color: #ffff;
+}
+
+.formulario1{
+    display: none;
+}
+
+.eventos{
+    background-color: #DFD1B6;
+    width: 98.70vw;
+    padding: 20px;
+    text-align: center;
+}
+
+.form-label{
+    color: black;
+}
+
+.card{
+    display: flex;
+    justify-content: center;
+}
+
+.contato{
+    color: #DFD1B6;
+}
+
+.contato img{
+    width: 150px;
+}
+
+.xicara:hover{
+    transform: scale(1.1);
+}
+
+.xicara{
+    transition: 0.5s;
+}
